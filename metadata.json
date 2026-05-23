@@ -1,0 +1,6 @@
+{
+  "name": "Rifai Network",
+  "description": "Professional network diagnostics, router manager, speed tester, and WiFi analysis tool developed by Technicien Abdelmotaleb Rifai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
